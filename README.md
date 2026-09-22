@@ -38,3 +38,6 @@ The Excel workbook contains the cleaned data, Pivot Tables, Pivot Charts, and in
 
 ## 🎯 Project Goal
 This project was created to practice practical data analysis skills and demonstrate the ability to turn raw sales data into an interactive Excel dashboard.
+## 📊 Dashboard Preview
+
+![Supermarket Sales Dashboard](dashboard.png)
